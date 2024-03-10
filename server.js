@@ -8,5 +8,5 @@ app.get('/',()=>{
     return "Hello"
 })
 app.listen(3000,()=>{
-    console.log('server staed')
+    console.log('server started at 3000')
 })
